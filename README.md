@@ -14,23 +14,23 @@ A stunning and responsive website built with HTML and CSS. This project showcase
 </div>
 
 <div>
-    <img src="screenshots/Temp2.png" width="70%" height="80%">
+    <img src="screenshots/temp2.png" width="70%" height="80%">
 </div>
 
 <div>
-    <img src="screenshots/Temp3.png" width="70%" height="80%">
+    <img src="screenshots/temp3.png" width="70%" height="80%">
 </div>
 
 <div>
-    <img src="screenshots/Temp4.png" width="70%" height="80%">
+    <img src="screenshots/temp4.png" width="70%" height="80%">
 </div>
 
 <div>
-    <img src="screenshots/Temp5.png" width="70%" height="80%">
+    <img src="screenshots/temp5.png" width="70%" height="80%">
 </div>
 
 <div>
-    <img src="screenshots/Temp6.png" width="70%" height="80%">
+    <img src="screenshots/temp6.png" width="70%" height="80%">
 </div>
 
 ---
@@ -58,11 +58,11 @@ A stunning and responsive website built with HTML and CSS. This project showcase
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/Sakshi-2508/Anime-Website-Bootstarp.git
+   git clone https://github.com/Sakshi-2508/Anime-Website-Bootstrap.git
    ```
 2. **Navigate to the project directory**
    ```sh
-   cd Anime-Website-Bootstarp
+   cd Anime-Website-Bootstrap
    ```
 3. **Open `index.html` in your browser**
 
