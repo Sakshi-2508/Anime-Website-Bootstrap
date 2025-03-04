@@ -3,7 +3,7 @@
 A stunning and responsive website built with HTML and CSS. This project showcases a clean and modern design with smooth UI/UX elements.
 
 ## 🚀 Live Demo
-🔗 [Click here to view the live site](#) *(https://sakshi-2508.github.io/Anime-Website-Bootstrap/)*
+🔗 [Click here to view the live site](https://sakshi-2508.github.io/Anime-Website-Bootstrap/)
 
 ---
 
